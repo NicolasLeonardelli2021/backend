@@ -1,0 +1,26 @@
+-{
+  "title": "teclado",
+  "price": 1000,
+  "thumbnail": "./foto1.jpg",
+  "id": 1
+}-{
+  "title": "mouse",
+  "price": 500,
+  "thumbnail": "./foto2.jpg",
+  "id": 2
+}-{
+  "title": "pantalla",
+  "price": 9500,
+  "thumbnail": "./foto3.jpg",
+  "id": 3
+}-{
+  "title": "camaraWeb",
+  "price": 1500,
+  "thumbnail": "./foto4.jpg",
+  "id": 4
+}-{
+  "title": "parlantes",
+  "price": 1200,
+  "thumbnail": "./foto5.jpg",
+  "id": 5
+}
